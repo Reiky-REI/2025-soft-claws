@@ -82,6 +82,7 @@ python .\line.py
 - `num_segments`：划分段数（影响四边形数量）。
 
 ### 2）建模
+沿着中线中心对称就可以
 
 <!-- ### 2) 生成 3D 打印用 SCAD（`line_3Dprinter.py`）
 - 脚本位置：`line_3Dprinter.py`
